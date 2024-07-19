@@ -1,0 +1,50 @@
+ Gender, Age, Height (cm), Weight (kg), Occupation, Education Level, Marital Status, Income (USD), Favorite Color
+ male,32,175,70, Software Engineer, Master's Degree, Married,75000, Blue
+ male,25,182,85, Sales Representative, Bachelor's Degree, Single,45000, Green
+ female,nan,160,62, Doctor, Doctorate Degree, Married,120000, Purple
+ male,nan,178,79, Lawyer, Bachelor's Degree, Single,90000, Red
+ female,nan,165,58, Graphic Designer, Associate's Degree, Single,35000, Yellow
+ male,nan,190,92, Business Consultant, Master's Degree, Divorced,110000, Black
+ female,nan,163,55, Marketing Specialist, Bachelor's Degree, Single,50000, Pink
+ male,52,179,83, CEO, Doctorate Degree, Married,500000, Blue
+ female,31,168,61, Project Manager, Bachelor's Degree, Married,80000, Green
+ male,36,177,76, Engineer, Master's Degree, Married,95000, Orange
+ female,24,nan,53, Accountant, Bachelor's Degree, Single,40000, Blue
+ male,44,183,87, Architect, Bachelor's Degree, Widowed,120000, Grey
+ female,28,166,60, Nurse, Associate's Degree, Married,55000, Purple
+ male,29,nan,84, Analyst, Bachelor's Degree, Single,60000, Red
+ female,33,170,65, Teacher, Master's Degree, Married,65000, Yellow
+ male,nan,176,78, IT Manager, Bachelor's Degree, Married,85000, Green
+ female,26,nan,59, Writer, Bachelor's Degree, Single,30000, Pink
+ male,28,182,75, Engineer, Bachelor's Degree, Married,80000, Blue
+ male,nan,178,82, Teacher, Master's Degree, Single,45000, Green
+ female,44,160,58, Doctor, Doctorate Degree, Married,150000, Purple
+ male,29,nan,74, Sales Representative, Bachelor's Degree, Single,55000, Red
+ female,31,165,63, Marketing Specialist, Bachelor's Degree, Single,50000, Yellow
+ male,nan,187,90, Business Analyst, Master's Degree, Divorced,120000, Black
+ female,27,163,56, Project Manager, Bachelor's Degree, Single,60000, Pink
+ male,47,181,85, CEO, Doctorate Degree, Married,500000, Blue
+ female,35,170,65, Graphic Designer, Associate's Degree, Married,70000, Green
+ male,42,nan,80, Architect, Bachelor's Degree, Married,100000, Orange
+ female,26,160,53, Accountant, Bachelor's Degree, Single,40000, Blue
+ male,49,183,92, Lawyer, Bachelor's Degree, Widowed,150000, Grey
+ female,30,168,61, Nurse, Associate's Degree, Married,60000, Purple
+ male,35,181,84, Analyst, Bachelor's Degree, Single,70000, Red
+ female,38,172,68, Teacher, Master's Degree, Married,75000, Yellow
+ male,31,175,78, IT Manager, Bachelor's Degree, Married,90000, Green
+ female,29,166,59, Writer, Bachelor's Degree, Single,35000, Pink
+ male,32,175,78, Engineer, Master's Degree, Married,90000, Blue
+ female,27,168,61, Marketing Specialist, Bachelor's Degree, Single,55000, Pink
+ male,41,180,85, Business Analyst, Bachelor's Degree, Divorced,110000, Green
+ female,36,163,57, Graphic Designer, Associate's Degree, Married,65000, Purple
+ male,29,183,81, Sales Representative, Bachelor's Degree, Single,50000, Black
+ female,33,170,65, Doctor, Doctorate Degree, Married,130000, Red
+ male,45,187,92, CEO, Doctorate Degree, Married,500000, Yellow
+ female,28,160,50, Writer, Bachelor's Degree, Single,40000, Grey
+ male,39,179,83, IT Manager, Bachelor's Degree, Married,95000, Orange
+ female,32,165,58, Accountant, Bachelor's Degree, Single,60000, Blue
+ male,44,183,90, Lawyer, Master's Degree, Married,180000, Pink
+ female,26,162,54, Teacher, Bachelor's Degree, Single,35000, Green
+ male,36,176,76, Analyst, Bachelor's Degree, Divorced,75000, Purple
+ female,29,167,63, Project Manager, Master's Degree, Single,55000, Red
+ male,42,181,87, Architect, Bachelor's Degree, Married,120000, Yellow
